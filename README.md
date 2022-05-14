@@ -12,9 +12,9 @@
 | ----- | ----------- |
 | 0_Abstract | Contains the abstract of the project. Basically what the project is about |
 | 1_Requirements | Contains all the high level and low level requirements of the project	 |
-| 2_Design | Prints the output	 |
-| 3_Implementation	 | Operating system(Windows10/Linux) |
-| 4_TestPlan | User should be able to give input	 |
-| 5_Report | Prints the output	 |
-| 6_Output | Prints the output	 |
+| 2_Design | Block Diagram and Flowchart of the project	 |
+| 3_Implementation	 | Contains all the code used for implementing the system |
+| 4_TestPlan | Contains the test plan of the project	 |
+| 5_Report | Contains the detailed report of the project	 |
+| 6_Output | Contains the output of the project	 |
 
