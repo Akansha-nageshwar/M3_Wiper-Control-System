@@ -7,3 +7,14 @@
 - The switch indicates ON/OFF
 
 ## Folder Structure
+
+| Folder | Description |
+| ----- | ----------- |
+| 0_Abstract | Contains the abstract of the project. Basically what the project is about |
+| 1_Requirements | Contains all the high level and low level requirements of the project	 |
+| 2_Design | Prints the output	 |
+| 3_Implementation	 | Operating system(Windows10/Linux) |
+| 4_TestPlan | User should be able to give input	 |
+| 5_Report | Prints the output	 |
+| 6_Output | Prints the output	 |
+
