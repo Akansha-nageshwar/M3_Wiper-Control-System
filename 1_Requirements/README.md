@@ -23,3 +23,16 @@
 | QUESTION | EXPLANATION |
 | -------- | ----------- |
 | What? | It is a wiper control system that is used to operate the wipers |
+| Who? | This system can be used by anyone operating a vehicle using the wiper system |
+| When? | This system can be used when the weather conditions prevent clear view of anything in front of the vehicle when driving |
+| Where? | It can be used anywhere like roads in cities, deserts, etc. |
+| How? | First the switch is pressed to operate the wiper. Then the switch positions are changes to vary the wiper speeds |
+
+## High Level Requirements
+| ID | DESCRIPTION | STATUS |
+| -------- | ----------- | -------- |
+| HLR01 | vehicle switched ON | Implemented |
+| HLR02 | Wiper switched ON | Implemented |
+| HLR03 | Wiper switched OFF | Implemented |
+| HLR04 | Car turned OFF | Implemented |
+
