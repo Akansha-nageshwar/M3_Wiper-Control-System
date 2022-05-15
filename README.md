@@ -18,3 +18,5 @@
 | 5_Report | Contains the detailed report of the project	 |
 | 6_Output | Contains the output of the project	 |
 
+## Badges
+Codiga Badge [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e6d2f1d5a6ba4cba852647ee0ad3052a)](https://www.codacy.com/gh/Akansha-nageshwar/M3_Wiper-Control-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Akansha-nageshwar/M3_Wiper-Control-System&amp;utm_campaign=Badge_Grade)
